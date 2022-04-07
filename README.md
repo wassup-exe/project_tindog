@@ -1,2 +1,1 @@
-# project_tindog
-wassup
+TinDog Starting Files
